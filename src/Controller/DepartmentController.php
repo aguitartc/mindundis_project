@@ -27,5 +27,6 @@ class DepartmentController extends AbstractController
         </html>
 EOF
         );
+        
     }
 }
