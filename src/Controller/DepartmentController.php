@@ -9,6 +9,7 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class DepartmentController extends AbstractController
 {
+
     /**
      * @Route("/", name="homepage")
      */
